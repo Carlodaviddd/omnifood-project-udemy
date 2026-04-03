@@ -13,6 +13,8 @@ Bold: 700
 - LINE HEIGHTS:
 Default: 1;
 Small: 1.05
+Medium: 1.2
+Large: 1.8
 Paragraph: 1.6
 
 - LETTER SPACING
@@ -64,6 +66,7 @@ Medium: 11px
 
 html {
   font-size: 62.5%;
+  overflow-x: hidden;
 }
 
 body {
@@ -71,6 +74,8 @@ body {
   line-height: 1;
   font-weight: 400;
   color: #555;
+
+  overflow-x: hidden;
 }
 
 /* General Resusable Components */
@@ -225,6 +230,7 @@ body {
   align-items: center;
   gap: 1.6rem;
   font-size: 1.8rem;
+  line-height: 1.2;
 }
 
 .list-icon {
