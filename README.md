@@ -7,7 +7,11 @@ This project is part of my learning journey in HTML and CSS. I built this websit
 - This project was created for educational purposes only.
 
 ## What I Learned
-
+- Structuring semantic **HTML**
+- Building responsive layouts using **CSS Grid** and **Flexbox**
+- Creating resuable components (grid system, buttons, cards)
+- Using media queries for screen sizes
+  
 ## Technologies
 - HTML
 - CSS
