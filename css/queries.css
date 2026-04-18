@@ -212,6 +212,20 @@
     padding: 2.4rem 1.6rem;
   }
 
+  .btn--outline {
+    margin-top: 1.6rem;
+  }
+
+  .align-btns {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .margin-right-sm {
+    margin-right: 0;
+  }
+
   .hero-img {
     width: 80%;
   }
